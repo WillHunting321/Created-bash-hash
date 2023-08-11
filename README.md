@@ -1,9 +1,4 @@
-               await pageName.goto(url);
-                        await pageName.waitForNetworkIdle();
 
-                    }
-
-                    // #3 PAGE ACTIONS
 
                     async function clickFunction(selectorUrl, openedPageToClick) {
                         const clickSelector = selectorUrl;
