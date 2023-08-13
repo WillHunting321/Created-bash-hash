@@ -1,6 +1,4 @@
 ick.waitForXPath(clickSelector);
-                        await xPathToClick.click();
-                        await new Promise(resolve => setTimeout(resolve, 500));
                             await Promise.waitForNetworkIdle;
                             
                     }
