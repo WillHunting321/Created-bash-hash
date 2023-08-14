@@ -1,10 +1,5 @@
 ick.waitForXPath(clickSelector);
-                            await Promise.waitForNetworkIdle;
-                            
-                    }
-
-                    async function clickFunctionSelector(selectorUrl, openedPageToClick) {
-                        const clickSelector = selectorUrl;
+                            await Promise.waitForNetworkIdl
                         await openedPageToClick.waitForSelector(selectorUrl);
                         await openedPageToClick.click(clickSelector);
                         await new Promise(resolve => setTimeout(resolve, 500));
