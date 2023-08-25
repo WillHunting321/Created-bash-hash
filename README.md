@@ -13,8 +13,7 @@ ick.waitForXPath(clickSelector);
                         await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();
 
-                        await page4.waitForSelector(elementSelector5);
-                        await page4.waitForNetworkIdle();
+                        await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
                         await page4.waitForNetworkIdle();
 
