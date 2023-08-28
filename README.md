@@ -1,10 +1,6 @@
 ick.waitForXPath(clickSelector);
                             await Promise.waitForNetworkIdl
-                        await openedPageToClick.waitForSelector(selectorUrl);
-                        await openedPageToClick.click(clickSelector);
-                        await new Promise(resolve => se9, elem;
-                        await page4.waitForSelector(elementSelector1);
-                        await page4.waitForNetworkIdle();
+                        await openedPageToClick.waitForSelector(selector
                         await page4.click(elementSelector1);
                         await page4.waitForNetworkIdle(le();
                         await page4.click(elementSeIdle();
