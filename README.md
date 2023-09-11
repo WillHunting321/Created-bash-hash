@@ -1,7 +1,7 @@
 ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
                         await openedPageToCwaitForSelector(selector
-                        await page4.click(elemeelector1);
+                        await page4.click(meelector1);
                         await page4.waiorNetworkIdle(l;
                         await page4.click(elementSeIdle();
                         await page4.waitForSelector(elementSelector4);
