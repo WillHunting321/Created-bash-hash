@@ -8,8 +8,18 @@ ick.waitForXPath(clickSelector);
                         await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelentNumber = data.profiles[i].cou_number;# StylishDemon
-StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
-        const accountNumber = daa.profiles[i].account_number;
+StylishDemon        const profileId = data.iles[i        const prof# StylishDemon
+StylishDemon        const profileId = data.profiles[i.pumber;
+        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
+ewPa
+(resolve, 1500));browser.newPappsharde
+
+
+iles[i].id;
+        const accountNumber = data.profiles[i].account_number;
+        const profilePassword = da.profile[i].password;   
+count_number;= data.profiles[i].id;
+        const accountNumber = daa.profiles[i].account_numb
         const profilePassword = data.profiles[i].password;
 iles[i]
         const accountNumber = data.profiles[i].account_number;
