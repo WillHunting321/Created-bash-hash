@@ -9,7 +9,7 @@ ick.waitForXPath(clickSelector);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelentNumber = data.profiles[i].cou_number;# StylishDemon
 StylishDemon        const profileId = data.iles[i        const prof# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
+StylishDemon        const profileId = data.profiles[i.pu
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
 (resolve, 1500));browser.newPappsharde
