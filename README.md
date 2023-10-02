@@ -7,10 +7,7 @@ ick.waitForXPath(clickSelector);
                         await page4.waitForSelector(elementSelector4);
                         await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
-StylishDemon        const profileId = data.iles[i        const prof# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pu
-        const profilePassrd = data.prof(resolve, 1500));browser.n
-ewPa
+StylishDemon        const profileId = data.iles[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
 
 
