@@ -12,9 +12,6 @@
                         await page4.waitForNetworkIdle();
 
                         await page4.waitForNetworkIdle();
-                        await page4.waitForSelector(elementSelector10);
-                        await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector10);
                         await page4.waitForNetworkIdle();
 
                         await page4.waitForSelector(elementSelector11);
