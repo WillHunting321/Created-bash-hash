@@ -7,9 +7,6 @@
                         await page4.waitForNetworkIdle();
                         await page4.waitForSelector(elementSelector7);
                         await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector7);
-                        await page4.waitForNetworkIdle();ait page4.waiorNetworkIdle(l; await page4.click(elementSeIdl; await page4.waitForSelector(elementSelector4); count_number;= data.profiles[i].id; const accou
-                        await page4.waitForNetworkIdle();
 
                         await page4.waitForNetworkIdle();
                         await page4.waitForNetworkIdle();
