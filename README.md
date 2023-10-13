@@ -8,9 +8,7 @@
                         await page4.waitForSelector(elementSelector7);
                         await page4.waitForNetworkIdle();
 
-                        await page4.waitForSelector(elementSelector11);
-                        await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector11);
+                        await page4.waitForSelector(elementSelector11)
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector12);
 
