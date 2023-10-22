@@ -1,6 +1,4 @@
-);
-                        await page4.click(elementSelector6);
-                        await page4.waitForNetworkIdle();
+);();
                         
                         await page4.waitForNetworkIdle
                         await page4.waitForNetworkIdle
