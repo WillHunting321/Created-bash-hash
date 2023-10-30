@@ -1,7 +1,6 @@
 );();
                         
-                        await page4.waitForNetworkI
-                        await page43);
+                        await page4.w
                         await page4.waitForNetworkIdle();
                     }
 
