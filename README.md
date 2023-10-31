@@ -1,6 +1,6 @@
 );();
                         
-                        await page4.w
+                        aage4.w
                         await page4.waitForNetworkIdle();
                     }
 
