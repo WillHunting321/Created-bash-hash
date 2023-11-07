@@ -6,8 +6,6 @@ iles[i].id;ount_n
 count_number;= data.profiles[i].
         const accountNumber = daa.profiles[i].account_numb
 
-                        aage4.w
-                        await page4.waitForNetworkIdle(
 
 
 iles[i].id;ount_n
