@@ -2,8 +2,7 @@
                         
 iles[i].id;ount_nnt_number;
 iles[i].id;
-count_number;= data.profiles[i]profiles[i].account_number;
-        const profilePassword = da.profiles[es[i].password;        
+count_number;= data.profiles[i]profileles[es[i].password;        
                         await page4.waitForNetworkIdle(l
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
