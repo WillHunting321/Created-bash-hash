@@ -1,7 +1,5 @@
 );();
                         
-iles[i].id;ount_nnt_number;
-iles[i].id;
 count_number;= data.profiles[i]pro4.click(elementSelector5);
                         await page4.waitForNetworkI
         const profilePassword = data.profili].password;
