@@ -1,8 +1,6 @@
 );();
                         
-count_number;= data.profiles[i]pro4.click(elementSelector5);
-                        await pagel
-
+count_number;= data.profiles[i]pro4.cli
         // DATA FIELD
         const profileId = data.profiles[i].id;
         const accountNumber = data.profiles[i].account_number;
