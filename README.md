@@ -6,6 +6,5 @@
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumb`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
-        console.log(`ACCOUNT NUMBER: ${accountNumb`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
