@@ -9,8 +9,6 @@ s const
 umber;.profile[i].passwors[i]s const 
 = daa.nst 
 umber;.profile[i].passwors[i]s const 
-ta.profili].pasSelector
-
         const accountNumber = data.profiles[i]
 umber;.profile[i].passwors[i]s const 
 = daa.nst 
